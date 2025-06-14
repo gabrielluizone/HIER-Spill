@@ -1,0 +1,18 @@
+2025-06-14 18:26:00,260 - INFO - Normalized database initialized successfully
+2025-06-14 18:26:00,262 - INFO - Loading Florence-2 model...
+2025-06-14 18:26:36,823 - INFO - Florence-2 model loaded successfully
+2025-06-14 18:26:36,825 - INFO - Loading GroundingDINO model...
+2025-06-14 18:26:38,535 - INFO - GroundingDINO model loaded successfully
+2025-06-14 18:26:38,537 - INFO - Starting Oil Detection Server on 0.0.0.0:8080
+2025-06-14 18:26:38,555 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.2.0.2:8080
+2025-06-14 18:26:38,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 18:26:55,465 - INFO - 127.0.0.1 - - [14/Jun/2025 18:26:55] "GET /health HTTP/1.1" 200 -
+2025-06-14 18:27:09,761 - INFO - Image loaded successfully: (640, 480)
+2025-06-14 18:27:09,785 - INFO - Processing image with Florence-2 for DOS0724/APS005
+2025-06-14 18:27:20,566 - INFO - Processing image with GroundingDINO for DOS0724/APS005
+2025-06-14 18:27:22,914 - INFO - Successfully processed detection 1 for DOS0724/APS005
+2025-06-14 18:27:22,915 - INFO - 127.0.0.1 - - [14/Jun/2025 18:27:22] "POST /oil_detection HTTP/1.1" 200 -
+2025-06-14 18:45:52,546 - INFO - Loading Florence-2 model...

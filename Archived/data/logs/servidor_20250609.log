@@ -1,0 +1,98 @@
+2025-06-09 22:10:29,539 | INFO     | SERVIDOR | 🚀 Sistema de logging inicializado
+2025-06-09 22:10:29,540 | INFO     | FLORENCE | 🔄 Carregando modelo Florence-2...
+2025-06-09 22:13:17,698 | INFO     | FLORENCE | ✅ Modelo Florence-2 carregado com sucesso
+2025-06-09 22:13:17,701 | INFO     | SERVIDOR | ✅ Tarefas em background iniciadas
+2025-06-09 22:13:17,701 | INFO     | SERVIDOR | 🚀 Servidor Completo inicializado
+2025-06-09 22:17:10,923 | INFO     | SERVIDOR | 🚀 Sistema de logging inicializado
+2025-06-09 22:17:10,924 | INFO     | FLORENCE | 🔄 Carregando modelo Florence-2...
+2025-06-09 22:19:52,184 | INFO     | FLORENCE | ✅ Modelo Florence-2 carregado com sucesso
+2025-06-09 22:19:52,187 | INFO     | SERVIDOR | ✅ Tarefas em background iniciadas
+2025-06-09 22:19:52,187 | INFO     | SERVIDOR | 🚀 Servidor Completo inicializado
+2025-06-09 22:19:52,190 | INFO     | SERVIDOR | 🚀 Iniciando servidor em 0.0.0.0:5000
+2025-06-09 22:19:52,190 | INFO     | SERVIDOR | 📁 Dados em: c:\Users\Usuario\Documents\server-defell\data
+2025-06-09 22:19:52,190 | INFO     | SERVIDOR | 🤖 Florence-2: ✅ Ativo
+2025-06-09 22:19:52,210 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.2.0.2:5000
+2025-06-09 22:19:52,211 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-09 22:31:00,453 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 22:31:00] "GET /sistema/status HTTP/1.1" 200 -
+2025-06-09 22:40:00,712 | INFO     | SERVIDOR | 🚀 Sistema de logging inicializado
+2025-06-09 22:40:00,714 | INFO     | FLORENCE | 🔄 Carregando modelo Florence-2...
+2025-06-09 22:42:40,476 | INFO     | FLORENCE | ✅ Modelo Florence-2 carregado com sucesso
+2025-06-09 22:42:40,480 | INFO     | SERVIDOR | ✅ Tarefas em background iniciadas
+2025-06-09 22:42:40,480 | INFO     | SERVIDOR | 🚀 Servidor Completo inicializado
+2025-06-09 22:42:40,482 | INFO     | SERVIDOR | 🚀 Iniciando servidor em 0.0.0.0:5000
+2025-06-09 22:42:40,482 | INFO     | SERVIDOR | 📁 Dados em: c:\Users\Usuario\Documents\server-defell\data
+2025-06-09 22:42:40,482 | INFO     | SERVIDOR | 🤖 Florence-2: ✅ Ativo
+2025-06-09 22:42:40,486 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.2.0.2:5000
+2025-06-09 22:42:40,487 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-09 22:50:51,961 | INFO     | SERVIDOR | 🚀 Sistema de logging inicializado
+2025-06-09 22:50:51,963 | INFO     | FLORENCE | 🔄 Carregando modelo Florence-2...
+2025-06-09 22:53:32,791 | INFO     | FLORENCE | ✅ Modelo Florence-2 carregado com sucesso
+2025-06-09 22:53:32,794 | INFO     | SERVIDOR | ✅ Tarefas em background iniciadas
+2025-06-09 22:53:32,795 | INFO     | SERVIDOR | 🚀 Servidor Completo inicializado
+2025-06-09 22:53:32,796 | INFO     | SERVIDOR | 🚀 Iniciando servidor em 0.0.0.0:4040
+2025-06-09 22:53:32,797 | INFO     | SERVIDOR | 📁 Dados em: c:\Users\Usuario\Documents\server-defell\data
+2025-06-09 22:53:32,797 | INFO     | SERVIDOR | 🤖 Florence-2: ✅ Ativo
+2025-06-09 22:53:32,809 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4040
+ * Running on http://10.2.0.2:4040
+2025-06-09 22:53:32,810 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-09 22:57:44,254 | INFO     | SERVIDOR | 🚀 Sistema de logging inicializado
+2025-06-09 22:57:44,255 | INFO     | FLORENCE | 🔄 Carregando modelo Florence-2...
+2025-06-09 23:00:24,513 | INFO     | FLORENCE | ✅ Modelo Florence-2 carregado com sucesso
+2025-06-09 23:00:24,516 | INFO     | SERVIDOR | ✅ Tarefas em background iniciadas
+2025-06-09 23:00:24,516 | INFO     | SERVIDOR | 🚀 Servidor Completo inicializado
+2025-06-09 23:00:24,518 | INFO     | SERVIDOR | 🚀 Iniciando servidor em 0.0.0.0:8080
+2025-06-09 23:00:24,518 | INFO     | SERVIDOR | 📁 Dados em: c:\Users\Usuario\Documents\server-defell\data
+2025-06-09 23:00:24,518 | INFO     | SERVIDOR | 🤖 Florence-2: ✅ Ativo
+2025-06-09 23:00:24,522 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.2.0.2:8080
+2025-06-09 23:00:24,523 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2025-06-09 23:03:13,175 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:03:13] "GET /sistema/status HTTP/1.1" 200 -
+2025-06-09 23:03:33,101 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:03:33] "GET /sistema/status HTTP/1.1" 200 -
+2025-06-09 23:04:20,991 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:04:20] "[33mPOST /skf_analysis HTTP/1.1[0m" 404 -
+2025-06-09 23:05:53,544 | INFO     | SERVIDOR | 🔄 Iniciando processamento: 3e1aa1e54fea6ef5 | Empresa: ODS2030
+2025-06-09 23:05:53,598 | INFO     | DATABASE | ✅ Banco de dados inicializado para empresa ODS2030
+2025-06-09 23:05:53,606 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\3e1aa1e54fea6ef5_RAW-ODS2030-OC0002-oil_spill-20250609230554040-1.jpg
+2025-06-09 23:05:53,609 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\3e1aa1e54fea6ef5_PRC-ODS2030-OC0002-oil_spill-20250609230554040-1.jpg
+2025-06-09 23:05:53,624 | INFO     | DATABASE | ✅ Processamento salvo: 3e1aa1e54fea6ef5
+2025-06-09 23:05:53,629 | INFO     | SERVIDOR | ✅ Processamento concluído: 3e1aa1e54fea6ef5 (349ms)
+2025-06-09 23:05:53,629 | INFO     | SERVIDOR | 🔄 Iniciando Florence-2 background: 3e1aa1e54fea6ef5
+2025-06-09 23:05:53,630 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:05:53] "POST /process HTTP/1.1" 200 -
+2025-06-09 23:05:53,679 | INFO     | FLORENCE | 🔄 Processando imagem com Florence-2: 3e1aa1e54fea6ef5
+2025-06-09 23:06:11,575 | INFO     | FLORENCE | ✅ Florence-2 concluído: 3e1aa1e54fea6ef5
+2025-06-09 23:06:11,595 | INFO     | DATABASE | ✅ Florence-2 atualizado: 3e1aa1e54fea6ef5
+2025-06-09 23:06:11,598 | INFO     | SERVIDOR | ✅ Florence-2 finalizado: 3e1aa1e54fea6ef5
+2025-06-09 23:06:29,967 | INFO     | SERVIDOR | 🔄 Iniciando processamento: 695d986fbe16d082 | Empresa: ODS2030
+2025-06-09 23:06:29,973 | INFO     | DATABASE | ✅ Banco de dados inicializado para empresa ODS2030
+2025-06-09 23:06:29,975 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\695d986fbe16d082_RAW-ODS2030-OC0002-oil_spill-20250609230630519-2.jpg
+2025-06-09 23:06:29,977 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\695d986fbe16d082_PRC-ODS2030-OC0002-oil_spill-20250609230630519-2.jpg
+2025-06-09 23:06:29,987 | INFO     | DATABASE | ✅ Processamento salvo: 695d986fbe16d082
+2025-06-09 23:06:29,992 | INFO     | SERVIDOR | ✅ Processamento concluído: 695d986fbe16d082 (613ms)
+2025-06-09 23:06:29,992 | INFO     | SERVIDOR | 🔄 Iniciando Florence-2 background: 695d986fbe16d082
+2025-06-09 23:06:29,993 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:06:29] "POST /process HTTP/1.1" 200 -
+2025-06-09 23:06:30,012 | INFO     | FLORENCE | 🔄 Processando imagem com Florence-2: 695d986fbe16d082
+2025-06-09 23:06:49,062 | INFO     | FLORENCE | ✅ Florence-2 concluído: 695d986fbe16d082
+2025-06-09 23:06:49,072 | INFO     | SERVIDOR | 🔄 Iniciando processamento: fa05587226ab9e45 | Empresa: ODS2030
+2025-06-09 23:06:49,073 | INFO     | DATABASE | ✅ Florence-2 atualizado: 695d986fbe16d082
+2025-06-09 23:06:49,076 | INFO     | SERVIDOR | ✅ Florence-2 finalizado: 695d986fbe16d082
+2025-06-09 23:06:49,078 | INFO     | DATABASE | ✅ Banco de dados inicializado para empresa ODS2030
+2025-06-09 23:06:49,080 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\fa05587226ab9e45_RAW-ODS2030-OC0002-oil_spill-20250609230649680-3.jpg
+2025-06-09 23:06:49,081 | INFO     | FILES | ✅ Imagem salva: c:\Users\Usuario\Documents\server-defell\data\images\empresa_ODS2030\2025-06-09\fa05587226ab9e45_PRC-ODS2030-OC0002-oil_spill-20250609230649680-3.jpg
+2025-06-09 23:06:49,090 | INFO     | DATABASE | ✅ Processamento salvo: fa05587226ab9e45
+2025-06-09 23:06:49,095 | INFO     | SERVIDOR | ✅ Processamento concluído: fa05587226ab9e45 (708ms)
+2025-06-09 23:06:49,095 | INFO     | SERVIDOR | 🔄 Iniciando Florence-2 background: fa05587226ab9e45
+2025-06-09 23:06:49,095 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:06:49] "POST /process HTTP/1.1" 200 -
+2025-06-09 23:06:49,104 | INFO     | FLORENCE | 🔄 Processando imagem com Florence-2: fa05587226ab9e45
+2025-06-09 23:07:09,164 | INFO     | FLORENCE | ✅ Florence-2 concluído: fa05587226ab9e45
+2025-06-09 23:07:09,175 | INFO     | DATABASE | ✅ Florence-2 atualizado: fa05587226ab9e45
+2025-06-09 23:07:09,179 | INFO     | SERVIDOR | ✅ Florence-2 finalizado: fa05587226ab9e45
+2025-06-09 23:07:20,997 | INFO     | werkzeug | 127.0.0.1 - - [09/Jun/2025 23:07:20] "[35m[1mGET /empresas HTTP/1.1[0m" 500 -
